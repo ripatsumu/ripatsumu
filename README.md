@@ -5,8 +5,7 @@ I am a passionate and dedicated 3rd-year MGSI student at ENSA Oujda, with a stro
 
 ### Skills
 - **Languages:** HTML, CSS, JavaScript, PHP, SQL, C, Python
-- **Frameworks and Libraries:** Bootstrap
-- **Tools and Platforms:** Git, GitHub, MySQL, 000webhost
+- **Tools and Platforms:** Git, GitHub, MySQL
 
 ### Projects
 - [Car Rental Website](https://github.com/ripatsumu/rental-car)
